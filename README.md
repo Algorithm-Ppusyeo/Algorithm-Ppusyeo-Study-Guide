@@ -33,9 +33,9 @@
 
 ## **🌿 Branch Rule**
 - 브랜치 네이밍: `session{차시}/{이름}`<br>
-  ex) `session1/eunseo` 
+  ex) session1/eunseo
 - 같은 차시 내 여러 문제 풀이 시: `session{차시}/{이름}-{카테고리}`  <br>
-  ex)`session1/eunseo-stack`, `session1/eunseo-math`
+  ex) session1/eunseo-stack, session1/eunseo-math
 - 메인 브랜치: `main` (풀이 기록 보관)  
 - 작업 흐름:
 ```bash
@@ -48,15 +48,21 @@ git push origin session1/eunseo-stack
 ---
 
 ## **🌟 Convention Rule**
+### ✅ 플랫폼
+  - [BOJ] - 백준
+  - [PGS] - 프로그래머스
+  - [LTC] - 리트코드
+  - [ETC] - 그외 <br><br>
 ### 💾 Commit
-- feat: [카테고리] 문제 풀이 (언어) 
-- fix: [카테고리] 코드 수정 
+- feat: [카테고리] {플랫폼} 문제 풀이 (언어) 
+- fix: [카테고리] {플랫폼} 코드 수정 
 - docs: README 업데이트
 <br><br>
 ### 🔀 Pull Request
 - 형식: `[SessionN] 이름 [플랫폼] 문제 풀이` <br>
-   ex) `[Session1] eunseo [BOJ] A+B 문제 풀이`
+   ex) `[Session1] eunseo [BOJ] A+B 문제 풀이` <br>
      
+    
   본문 구성 예시:
   ```markdown
   ## 📝 문제
