@@ -7,7 +7,7 @@
 ## **👥 Collaborator**
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/str-leshs.png" width="120" height="120"/> | <img src="https://github.com/2sseul.png" width="120" height="120"/> | <img src="https://github.com/baeksohyun12.png" width="120" height="120"/> | <img src="https://github.com/Hwangyerin.png" width="120" height="120"/> |
+| <img src="https://github.com/str-leshs.png?size=120" width="120"/> | <img src="https://github.com/2sseul.png?size=120" width="120"/> | <img src="https://github.com/baeksohyun12.png?size=120" width="120"/> | <img src="https://github.com/Hwangyerin.png?size=120" width="120"/> |
 | [@str-leshs](https://github.com/str-leshs) <br> **Java** | [@2sseul](https://github.com/2sseul) <br> **Java, Python** | [@baeksohyun12](https://github.com/baeksohyun12) <br> **Java** | [@Hwangyerin](https://github.com/Hwangyerin) <br> **JavaScript** |
 
 ---
